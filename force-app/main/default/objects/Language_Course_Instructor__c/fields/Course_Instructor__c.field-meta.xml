@@ -3,7 +3,7 @@
     <fullName>Course_Instructor__c</fullName>
     <externalId>false</externalId>
     <label>Course Instructor</label>
-    <referenceTo>F__c</referenceTo>
+    <referenceTo>Course_Instructor__c</referenceTo>
     <relationshipLabel>Language Course Instructors</relationshipLabel>
     <relationshipName>Language_Course_Instructors</relationshipName>
     <relationshipOrder>0</relationshipOrder>
