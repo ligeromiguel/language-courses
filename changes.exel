@@ -1,2 +1,4 @@
 - Added new Object: Language_Course_Instructor__c
 - Defined Master-Detail Relationship of the new object with Language_course_c
+
+- Created New Trigger Classes
